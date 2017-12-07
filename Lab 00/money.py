@@ -25,8 +25,8 @@ def printBalance(P,r,n):
 
 print (printBalance(400000, 0.045, 30))
 
+print ("changes are made");
 
-print ("hello github")
 
 #test changes git
     
