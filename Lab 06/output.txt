@@ -1,0 +1,1042 @@
+City Name:                    Latitude:      Longitude:     Population:    Dot Size:      Color:         
+evanston,wy                   41.33          111.0                         4              cyan           
+rockland,me                   44.07          69.12                         4              purple         
+rawlins,wy                    41.8           107.2                         4              cyan           
+sanford,fl                    28.78          81.25                         4              purple         
+red bluff,ca                  40.15          122.25                        4              deep pink      
+big spring,tx                 32.3           101.45                        4              deep pink      
+tupelo,ms                     34.27          88.77                         4              purple         
+salida,co                     38.53          106.05                        4              deep pink      
+beaumont,ca                   33.93          116.95                        4              deep pink      
+pt arguello,ca                34.95          121.12                        4              deep pink      
+hawthorne,nv                  38.55          118.63                        4              cyan           
+chattanooga,tn                35.03          85.2           171350         6              gold           
+high island,la                28.13          94.4                          4              gold           
+palm springs,ca               33.83          116.5                         4              deep pink      
+monteagle,tn                  35.15          85.51                         4              gold           
+chase nas,tx                  28.37          97.67                         4              deep pink      
+torrance,ca                   33.8           118.33         140317         6              deep pink      
+garden city,ks                37.93          100.72                        4              cyan           
+missoula,mt                   46.92          114.08                        4              gold           
+hot springs,va                37.95          79.82                         4              cyan           
+blanding,ut                   38.03          109.78                        4              purple         
+new haven,ct                  41.27          72.9           123330         6              deep pink      
+salem,il                      38.63          88.96                         4              cyan           
+du page,il                    41.92          88.25                         4              cyan           
+aberdeen,sd                   45.45          98.43                         4              purple         
+challis,id                    44.52          114.22                        4              deep pink      
+twin falls,id                 42.48          114.48                        4              deep pink      
+massena,ny                    44.93          74.85                         4              purple         
+new york/lga,ny               40.77          73.9                          4              purple         
+beaver falls,pa               40.75          80.33                         4              deep pink      
+la junta,co                   38.05          103.52                        4              deep pink      
+tustin mcas,ca                33.7           117.83                        4              deep pink      
+brmfield/jef,co               39.9           105.12                        4              deep pink      
+cascade,or                    45.68          121.88                        4              purple         
+kelly afb,tx                  29.38          98.58                         4              deep pink      
+rockport,tx                   28.08          97.03                         4              deep pink      
+san luis obi,ca               35.23          120.65                        4              deep pink      
+bowling gren,ky               36.97          86.43                         4              deep pink      
+brookings,sd                  44.3           96.8                          4              purple         
+mojave,ca                     35.05          118.15                        4              deep pink      
+klamath fall,or               42.15          121.73                        4              purple         
+buckley,co                    39.72          104.75                        4              deep pink      
+maxwell afb,al                32.38          86.37                         4              cyan           
+fort belvoir,va               38.72          77.18                         4              cyan           
+grants,nm                     35.17          107.9                         4              cyan           
+ann arbor,mi                  42.22          83.75          112920         6              deep pink      
+danville,va                   36.57          79.33                         4              cyan           
+gallup/clark,nm               35.52          108.78                        4              cyan           
+ft riley,ks                   39.05          96.77                         4              cyan           
+philip,sd                     44.05          101.6                         4              purple         
+brainerd-crw,mn               46.4           94.13                         4              cyan           
+air force a,co                39.52          105.35                        4              deep pink      
+bremerton,wa                  47.48          122.77                        4              cyan           
+quantico mca,va               38.5           77.3                          4              cyan           
+olathe,ks                     38.85          94.9           121962         6              cyan           
+mobridge,sd                   45.53          100.43                        4              purple         
+muskegon,mi                   43.17          86.25                         4              deep pink      
+parkersburg,wv                39.35          81.43                         4              gold           
+teterboro,nj                  40.85          74.05                         4              gold           
+chesapeake,va                 37.5           76.2           222455         7              cyan           
+fayetteville,ar               36.0           94.17                         4              cyan           
+college stn,tx                30.58          96.37                         4              deep pink      
+yuma mcas,az                  32.65          114.62                        4              gold           
+paris/cox,tx                  33.63          95.45                         4              deep pink      
+otis angb,ma                  41.65          70.52                         4              cyan           
+moab,ut                       38.77          109.75                        4              purple         
+janesville,wi                 42.62          89.03                         4              gold           
+england afb,la                31.33          92.55                         4              gold           
+latrobe,pa                    40.28          79.4                          4              deep pink      
+yankton,sd                    42.92          97.38                         4              purple         
+menominee,mi                  45.12          87.63                         4              deep pink      
+hondo,tx                      29.35          99.17                         4              deep pink      
+caribou mun,me                46.87          68.02                         4              purple         
+nashua,nh                     42.78          71.52                         4              gold           
+hartford,ct                   41.73          72.65          124060         6              deep pink      
+mountn home,id                43.05          115.87                        4              deep pink      
+new bedford,ma                41.68          70.97                         4              cyan           
+palmdale,ca                   35.05          118.13         143985         6              deep pink      
+moriarity,nm                  34.98          106.05                        4              cyan           
+jaffrey,nh                    42.8           72.0                          4              gold           
+sandburg,ca                   34.75          118.73                        4              deep pink      
+aspen,co                      39.22          106.87                        4              deep pink      
+north platte,ne               41.13          100.68                        4              gold           
+miami/tamiami,fl              25.65          80.43                         4              purple         
+tinker afb,ok                 35.42          97.38                         4              gold           
+troy,al                       31.87          86.02                         4              cyan           
+silver city,nm                32.63          108.17                        4              cyan           
+atlanta/fltn,ga               33.78          84.52                         4              deep pink      
+roosevelt,ut                  40.5           110.63                        4              purple         
+san jose/rei,ca               37.33          121.82                        4              deep pink      
+travis afb,ca                 38.27          121.93                        4              deep pink      
+blue canyon,ca                39.28          120.7                         4              deep pink      
+lubbock,tx                    33.65          101.82         225859         7              deep pink      
+phillips,md                   39.47          76.17                         4              purple         
+camp pendlet,ca               33.3           117.35                        4              deep pink      
+oakland,ca                    37.73          122.22         409189         7              deep pink      
+gunnison,co                   38.55          106.92                        4              deep pink      
+guadalupe ps,tx               31.83          104.8                         4              deep pink      
+centreville,al                32.9           87.25                         4              cyan           
+niagara fall,ny               43.1           78.95                         4              purple         
+jackson,ms                    32.32          90.08          175021         6              purple         
+texarkana,ar                  33.45          94.0                          4              cyan           
+ocean city,md                 38.55          75.13                         4              purple         
+w palm beach,fl               26.68          80.12                         4              purple         
+riverside,ca                  33.95          117.45         297841         7              deep pink      
+shelter cove,ca               40.03          124.07                        4              deep pink      
+ely,mn                        47.9           91.82                         4              cyan           
+stampede pas,wa               47.28          121.33                        4              cyan           
+jackson,mi                    42.27          84.47                         4              deep pink      
+cairo,il                      37.07          89.22                         4              cyan           
+manitowac,wi                  44.13          87.67                         4              gold           
+naples,fl                     26.13          81.8                          4              purple         
+monida,mt                     44.57          112.32                        4              gold           
+vandenberg,ca                 35.2           120.95                        4              deep pink      
+carlsbad,ca                   33.13          117.28                        4              deep pink      
+nth philadel,pa               40.08          75.02                         4              deep pink      
+nashville,tn                  36.12          86.68          605473         8              gold           
+knoxville,tn                  35.82          83.98          185100         6              gold           
+memphis nas,tn                35.35          89.87                         4              gold           
+sherman-deni,tx               33.72          96.67                         4              deep pink      
+brownwood,tx                  31.79          98.96                         4              deep pink      
+las vegas,nv                  36.08          115.17         567641         8              cyan           
+golden trian,ms               33.45          88.58                         4              purple         
+pittsfield,ma                 42.26          73.18                         4              cyan           
+boise,id                      43.57          116.22         205707         7              deep pink      
+cross city,fl                 29.62          83.1                          4              purple         
+austin,tx                     30.3           97.7           786386         8              deep pink      
+oxnard,ca                     34.2           119.2          187535         6              deep pink      
+custer,sd                     43.77          103.6                         4              purple         
+sawyer afb,mi                 46.35          87.4                          4              deep pink      
+abilene,tx                    32.42          99.68          117180         6              deep pink      
+hobbs,nm                      32.68          103.2                         4              cyan           
+mccomb,ms                     31.18          90.47                         4              purple         
+vichy/rolla,mo                38.13          91.77                         4              purple         
+russell,ks                    38.87          98.82                         4              cyan           
+clinton,ok                    35.35          99.2                          4              gold           
+ithaca,ny                     42.48          76.47                         4              purple         
+presque isle,me               46.68          68.05                         4              purple         
+medford,or                    42.37          122.87                        4              purple         
+page,az                       36.93          111.45                        4              gold           
+el dorado,ar                  33.22          92.8                          4              cyan           
+corona,nm                     34.1           105.68                        4              cyan           
+fort worth,tx                 32.82          97.35          727577         8              deep pink      
+needles,ca                    34.77          114.62                        4              deep pink      
+salmon,id                     45.17          114.47                        4              deep pink      
+thompson fal,mt               47.6           115.37                        4              gold           
+goodyear,az                   33.42          112.38                        4              gold           
+laramie,wy                    41.32          105.68                        4              cyan           
+wolf point,mt                 48.1           105.58                        4              gold           
+johnstown,pa                  40.32          78.83                         4              deep pink      
+the dalles,or                 45.62          121.15                        4              purple         
+hobart,ok                     35.0           99.05                         4              gold           
+key west nas,fl               24.57          81.68                         4              purple         
+sault ste m,mi                46.47          84.37                         4              deep pink      
+hunter aaf,ga                 32.02          81.15                         4              deep pink      
+tonopah,nv                    38.07          117.08                        4              cyan           
+worland,wy                    43.97          107.97                        4              cyan           
+morgan city,la                29.7           91.2                          4              gold           
+white sands,nm                32.63          106.4                         4              cyan           
+pequot lake,mn                46.6           94.32                         4              cyan           
+steamboat sp,co               40.48          106.82                        4              deep pink      
+greenville,sc                 34.9           82.22                         4              cyan           
+trenton,nj                    40.28          74.82                         4              gold           
+malmstrom,mt                  47.5           111.18                        4              gold           
+dallas/love,tx                32.85          96.85                         4              deep pink      
+marianna,fl                   30.84          85.18                         4              purple         
+lancaster,ca                  34.73          118.22         145776         6              deep pink      
+grand jct,co                  39.12          108.53                        4              deep pink      
+tucson,az                     32.12          110.93         543910         8              gold           
+missippi can,la               28.78          89.05                         4              gold           
+iron mtn,mi                   45.82          88.12                         4              deep pink      
+anderson,sc                   34.5           82.72                         4              cyan           
+fairmont,mn                   43.65          94.42                         4              cyan           
+ypsilanti,mi                  42.23          83.53                         4              deep pink      
+lake view,or                  42.18          120.35                        4              purple         
+brunswick,ga                  31.15          81.38                         4              deep pink      
+sarasota,fl                   27.4           82.55                         4              purple         
+gadsden,al                    33.97          86.09                         4              cyan           
+oxford,ms                     34.39          89.54                         4              purple         
+rice lake,wi                  45.48          91.72                         4              gold           
+joplin,mo                     37.17          94.5                          4              purple         
+el monte,ca                   34.08          118.03         121447         6              deep pink      
+athens/albany,oh              39.21          82.23                         4              cyan           
+fort lauderd,fl               26.13          80.13                         4              purple         
+muscle shoal,al               34.75          87.62                         4              cyan           
+oceana nas,va                 36.82          76.03                         4              cyan           
+gage,ok                       36.3           99.77                         4              gold           
+mosinee,wi                    44.78          89.67                         4              gold           
+raton,nm                      36.74          104.5                         4              cyan           
+mt washingtn,nh               44.27          71.3                          4              gold           
+columbus,ne                   41.45          97.35                         4              gold           
+flagstaff,az                  35.13          111.67                        4              gold           
+des moines,ia                 41.53          93.65          200538         7              deep pink      
+salt lake ct,ut               40.78          111.97                        4              purple         
+shaw afb,sc                   33.97          80.47                         4              cyan           
+loring afb,me                 46.95          67.88                         4              purple         
+tyler/pounds,tx               32.37          95.4                          4              deep pink      
+palacios,tx                   28.72          96.25                         4              deep pink      
+rutland,vt                    43.53          73.95                         4              deep pink      
+lynchburg,va                  37.33          79.2                          4              cyan           
+ft leavnwrth,ks               39.37          94.92                         4              cyan           
+lk palourde,la                29.7           91.1                          4              gold           
+col. j jabar,ks               37.75          97.22                         4              cyan           
+sanderson,tx                  30.17          102.42                        4              deep pink      
+rome/russell,ga               34.35          85.17                         4              deep pink      
+chico,ca                      39.78          121.85                        4              deep pink      
+george afb,ca                 34.58          117.38                        4              deep pink      
+huntington,wv                 38.37          82.55                         4              gold           
+mackall aaf,nc                35.03          79.5                          4              purple         
+cedar rapids,ia               41.88          91.7           127764         6              deep pink      
+norfolk nas,va                36.93          76.28                         4              cyan           
+kirksville,mo                 40.1           92.55                         4              purple         
+roseglen,nd                   47.75          101.83                        4              deep pink      
+syracuse,ny                   43.12          76.12          138560         6              purple         
+siskiyou,ca                   41.78          122.47                        4              deep pink      
+glens falls,ny                43.35          73.62                         4              purple         
+meridian/key,ms               32.33          88.75                         4              purple         
+minot intl,nd                 48.27          101.28                        4              deep pink      
+vero beach,fl                 27.65          80.42                         4              purple         
+havre,mt                      48.55          109.77                        4              gold           
+lebanon,nh                    43.63          72.3                          4              gold           
+pendleton,or                  45.68          118.85                        4              purple         
+oklahoma cty,ok               35.53          97.65                         4              gold           
+lander,wy                     42.82          108.73                        4              cyan           
+crestview,fl                  30.78          86.52                         4              purple         
+eureka,nv                     39.5           115.97                        4              cyan           
+oshkosh,wi                    44.0           88.57                         4              gold           
+zanesville,oh                 39.95          81.9                          4              cyan           
+wurtsmith,mi                  44.45          83.4                          4              deep pink      
+rickenbacker,oh               39.82          82.93                         4              cyan           
+roseburg,or                   43.23          123.37                        4              purple         
+walnut ridge,ar               36.13          90.93                         4              cyan           
+oak harbor,wa                 48.25          122.68                        4              cyan           
+moorcroft,wy                  44.35          104.81                        4              cyan           
+milford,ut                    38.72          113.03                        4              purple         
+emporia,ks                    38.33          96.2                          4              cyan           
+malad city,id                 42.17          112.32                        4              deep pink      
+payson,az                     34.23          111.33                        4              gold           
+monett,mo                     37.33          94.35                         4              purple         
+cape blanco,or                43.38          124.95                        4              purple         
+thermal,ca                    33.63          116.17                        4              deep pink      
+lawrence,ma                   42.72          71.12                         4              cyan           
+mcentire,sc                   33.92          80.8                          4              cyan           
+hanksville,ut                 38.37          110.72                        4              purple         
+ft collins,co                 40.58          105.08                        4              deep pink      
+bistate park,il               38.57          90.15                         4              cyan           
+arcata,ca                     40.98          124.1                         4              deep pink      
+yuma prv gd,az                32.85          114.4                         4              gold           
+pullman,wa                    46.75          117.12                        4              cyan           
+jackson,tn                    35.6           88.92                         4              gold           
+north bend,or                 43.42          124.25                        4              purple         
+hays,ks                       38.85          99.27                         4              cyan           
+volens,va                     36.95          78.98                         4              cyan           
+lemmon,sd                     45.93          102.17                        4              purple         
+green bay,wi                  44.48          88.13          101412         6              gold           
+deming,nm                     32.25          107.7                         4              cyan           
+blairsville,pa                40.27          79.09                         4              deep pink      
+chino,ca                      33.97          117.63                        4              deep pink      
+longview,tx                   32.38          94.72                         4              deep pink      
+alturas,ca                    41.48          120.53                        4              deep pink      
+albert lea,mn                 43.68          93.37                         4              cyan           
+napa,ca                       38.22          122.28                        4              deep pink      
+glasgow,mt                    48.22          106.62                        4              gold           
+moody afb,ga                  30.97          83.2                          4              deep pink      
+lincoln muni,ne               40.85          96.75                         4              gold           
+moses lake,wa                 47.2           119.32                        4              cyan           
+portland,or                   45.6           122.6          566143         8              purple         
+altus afb,ok                  34.67          99.27                         4              gold           
+san francisco,ca              37.62          122.38         815358         9              deep pink      
+tyndall afb,fl                30.07          85.58                         4              purple         
+springdale,ar                 36.18          94.13                         4              cyan           
+saranac lk,ny                 44.38          74.2                          4              purple         
+china lake,ca                 35.68          117.68                        4              deep pink      
+denver,co                     39.75          104.87         610345         8              deep pink      
+gulfport,ms                   30.4           89.07                         4              purple         
+moline/quad,il                41.45          90.52                         4              cyan           
+jacksonville,nc               34.82          77.62                         4              purple         
+burley,id                     42.53          113.77                        4              deep pink      
+sacramento,ca                 38.7           121.6          466676         8              deep pink      
+ft myers,fl                   26.65          81.87                         4              purple         
+marthas vine,ma               41.4           70.62                         4              cyan           
+lexington,ky                  38.05          85.0           296545         7              deep pink      
+pease afb,nh                  43.08          70.82                         4              gold           
+san mateo,ca                  33.38          117.58                        4              deep pink      
+whiteman afb,mo               38.73          93.55                         4              purple         
+prescott,az                   34.65          112.43                        4              gold           
+butte,mt                      45.95          112.5                         4              gold           
+corpus chrst,tx               27.7           97.28                         4              deep pink      
+gillette,wy                   44.35          105.53                        4              cyan           
+columbia,sc                   33.95          81.12          129333         6              cyan           
+austin,nv                     39.5           117.08                        4              cyan           
+kalispell,mt                  48.3           114.27                        4              gold           
+flint/bishop,mi               42.97          83.75                         4              deep pink      
+gila bend,az                  33.55          113.17                        4              gold           
+alamosa,co                    37.45          105.87                        4              deep pink      
+allentown,pa                  40.65          75.43          107815         6              deep pink      
+vance afb,ok                  36.33          97.92                         4              gold           
+elkins,wv                     38.88          79.85                         4              gold           
+selma,al                      32.34          86.99                         4              cyan           
+natchez,ms                    31.62          91.25                         4              purple         
+louisville,ky                 38.18          85.73          566503         8              deep pink      
+el paso,tx                    31.8           106.4          620456         8              deep pink      
+erie,pa                       42.08          80.18          103571         6              deep pink      
+cuba awrs,nm                  36.02          106.95                        4              cyan           
+benton harbor,mi              42.13          86.43                         4              deep pink      
+valentine,ne                  42.87          100.55                        4              gold           
+walla walla,wa                46.1           118.28                        4              cyan           
+danbury,ct                    41.37          73.48                         4              deep pink      
+manchester,nh                 42.93          71.43          109279         6              gold           
+lamar,co                      38.12          102.6                         4              deep pink      
+mccall,id                     44.88          116.1                         4              deep pink      
+midland,tx                    31.95          102.18         108668         6              deep pink      
+newport news,va               37.13          76.5           193172         6              cyan           
+huron,sd                      44.38          98.22                         4              purple         
+dansville,ny                  42.97          78.2                          4              purple         
+san jose,ca                   37.37          121.92         964695         9              deep pink      
+escanaba,mi                   45.73          87.08                         4              deep pink      
+trinidad,co                   37.25          104.33                        4              deep pink      
+del rio,tx                    29.37          100.92                        4              deep pink      
+franklin,pa                   41.38          79.87                         4              deep pink      
+pontiac,mi                    42.67          83.42                         4              deep pink      
+taylorville,il                39.53          89.33                         4              cyan           
+london,ky                     37.08          84.07                         4              deep pink      
+aurora,or                     45.25          122.75                        4              purple         
+charlotte,nc                  35.22          80.93          709441         8              purple         
+patuxent,md                   38.28          76.4                          4              purple         
+bluefield,wv                  37.3           81.22                         4              gold           
+minot afb,nd                  48.42          101.35                        4              deep pink      
+port angeles,wa               48.22          123.67                        4              cyan           
+chatham,ma                    41.67          69.97                         4              cyan           
+falls city,ne                 40.07          95.58                         4              gold           
+truth or con,nm               33.23          107.27                        4              cyan           
+brownsville,tx                25.9           97.43          176859         6              deep pink      
+gainesville,fl                29.68          82.27          116616         6              purple         
+pt arena,ca                   39.58          124.22                        4              deep pink      
+grand rapids,mn               47.22          93.52                         4              cyan           
+pittsburgh,pa                 40.5           80.22          311647         7              deep pink      
+grand isle,la                 29.18          90.07                         4              gold           
+grand rapids,mi               42.88          85.52          193710         6              deep pink      
+dekalb,il                     41.93          88.72                         4              cyan           
+mansfield,oh                  40.82          82.52                         4              cyan           
+blytheville,ar                35.97          89.95                         4              cyan           
+boston,ma                     42.37          71.03          645169         8              cyan           
+limon,co                      39.18          103.7                         4              deep pink      
+terre haute,in                39.45          87.3                          4              purple         
+dover,de                      39.13          75.47                         4              cyan           
+lawton,ok                     34.57          98.42                         4              gold           
+houston,tx                    29.97          95.35          2257926        11             deep pink      
+auburn,al                     32.67          85.44                         4              cyan           
+pocatello,id                  42.92          112.6                         4              deep pink      
+gary,in                       41.62          87.42                         4              purple         
+los alamos,nm                 35.88          106.28                        4              cyan           
+casper,wy                     42.92          106.47                        4              cyan           
+eau claire,wi                 44.87          91.48                         4              gold           
+merced,ca                     37.28          120.52                        4              deep pink      
+redwood falls,mn              44.55          95.08                         4              cyan           
+vandalia,il                   38.99          89.17                         4              cyan           
+intl falls,mn                 48.57          93.38                         4              cyan           
+bullfrog mar,ut               37.5           110.7                         4              purple         
+killeen,tx                    31.08          97.68          119512         6              deep pink      
+south brazos,tx               28.03          95.87                         4              deep pink      
+wink,tx                       31.78          103.2                         4              deep pink      
+st cloud,mn                   45.55          94.07                         4              cyan           
+shelton,wa                    47.25          123.15                        4              cyan           
+miami/opa,fl                  25.92          80.28                         4              purple         
+montague,ca                   41.73          122.53                        4              deep pink      
+st louis,mo                   38.75          90.37          356587         7              purple         
+middletown,pa                 40.2           76.77                         4              deep pink      
+madison,wi                    43.13          89.33          235419         7              gold           
+salem,or                      44.92          123.0          155469         6              purple         
+litchfield,mn                 45.13          94.52                         4              cyan           
+jamestown,ny                  42.15          79.25                         4              purple         
+livermore,ca                  37.7           121.82                        4              deep pink      
+santa maria,ca                34.9           120.45                        4              deep pink      
+modesto,ca                    37.63          120.95         202743         7              deep pink      
+bangor,me                     44.8           68.82                         4              purple         
+apalachicola,fl               29.73          85.03                         4              purple         
+crescent cty,ca               41.78          124.23                        4              deep pink      
+burwell,ne                    41.78          99.15                         4              gold           
+chicago/o'hare,il             41.98          87.9                          4              cyan           
+mammoth lks,ca                37.63          118.92                        4              deep pink      
+hancock,mi                    47.17          88.5                          4              deep pink      
+bar harbor,me                 44.45          68.37                         4              purple         
+birmingham,al                 33.57          86.75          230131         7              cyan           
+reading,pa                    40.38          75.97                         4              deep pink      
+eagle,co                      39.65          106.92                        4              deep pink      
+craig-moffat,co               40.5           107.53                        4              deep pink      
+intercoastal,la               29.73          92.12                         4              gold           
+fayetteville,nc               35.0           78.88          198071         6              purple         
+hibbing,mn                    47.38          92.85                         4              cyan           
+waco-madison,tx               31.62          97.22                         4              deep pink      
+evansville,in                 38.05          87.53          116584         6              purple         
+cape cod can,ma               41.78          70.5                          4              cyan           
+mcconnell af,ks               37.62          97.27                         4              cyan           
+greenville,ms                 33.48          90.98                         4              purple         
+quonset pt nas,ri             41.36          71.25                         4              purple         
+eglin afb,fl                  30.48          86.53                         4              purple         
+wichita,ks                    37.65          97.43          372186         7              cyan           
+albuquerque,nm                35.05          106.6          529219         8              cyan           
+salina,ks                     38.8           97.65                         4              cyan           
+morgantown,wv                 39.65          79.92                         4              gold           
+harlingen,tx                  26.23          97.67                         4              deep pink      
+burlington,vt                 44.47          73.15                         4              deep pink      
+orlando,fl                    28.55          81.33          235860         7              purple         
+salisbury,md                  38.33          75.5                          4              purple         
+park rapids,mn                46.9           95.07                         4              cyan           
+ruskin,fl                     27.97          82.6                          4              purple         
+greenville,me                 45.78          69.63                         4              purple         
+pillaro pt,ca                 37.83          122.83                        4              deep pink      
+lemoore nas,ca                36.33          119.95                        4              deep pink      
+elko,nv                       40.83          115.78                        4              cyan           
+dillon,mt                     45.25          112.55                        4              gold           
+gooding,id                    43.0           115.17                        4              deep pink      
+dayton,oh                     39.9           84.2           153843         6              cyan           
+el centro,ca                  32.82          115.68                        4              deep pink      
+brookings,or                  42.08          124.47                        4              purple         
+beaufort mca,sc               32.48          80.72                         4              cyan           
+carswell afb,tx               32.78          97.43                         4              deep pink      
+barksdale,la                  32.5           93.67                         4              gold           
+elk city,id                   45.82          115.43                        4              deep pink      
+great falls,mt                47.48          111.37                        4              gold           
+paso robles,ca                35.67          120.63                        4              deep pink      
+copper harb,mi                47.47          87.85                         4              deep pink      
+san carlos,ca                 37.52          122.25                        4              deep pink      
+utica,ny                      43.15          75.38                         4              purple         
+los angeles,ca                33.93          118.4          3831868        13             deep pink      
+fort sill,ok                  34.65          98.4                          4              gold           
+eureka,ca                     41.33          124.28                        4              deep pink      
+enid,ok                       36.38          97.8                          4              gold           
+wausau,wi                     44.92          89.62                         4              gold           
+ogdensburg,ny                 44.68          75.4                          4              purple         
+miles city,mt                 46.43          105.87                        4              gold           
+cody,wy                       44.52          109.02                        4              cyan           
+redding,ca                    40.5           122.3                         4              deep pink      
+miramar nas,ca                32.87          117.15                        4              deep pink      
+harlowton,mt                  46.43          109.83                        4              gold           
+fergus falls,mn               46.3           96.07                         4              cyan           
+camden,ar                     33.52          92.4                          4              cyan           
+elkhart,in                    41.72          86.0                          4              purple         
+washington/dulles,dc          38.95          77.46                         4              deep pink      
+fort hunter,ca                36.0           121.32                        4              deep pink      
+troutdale,or                  45.55          122.4                         4              purple         
+rockford,il                   42.2           89.1           157280         6              cyan           
+ponca city,ok                 36.73          97.1                          4              gold           
+hyannis,ma                    41.67          70.28                         4              cyan           
+cameron heli,la               29.78          93.3                          4              gold           
+santa barbara,ca              34.43          119.83                        4              deep pink      
+barnegat ls,nj                40.28          74.28                         4              gold           
+baker,or                      44.83          117.82                        4              purple         
+groton,ct                     41.33          72.05                         4              deep pink      
+galesburg,il                  40.93          90.43                         4              cyan           
+chadron,ne                    42.83          103.08                        4              gold           
+sidney muni,ne                41.1           102.98                        4              gold           
+san miguel,ca                 34.03          120.4                         4              deep pink      
+yucca flat,nv                 37.58          116.08                        4              cyan           
+bartlesville,ok               36.75          96.0                          4              gold           
+melbourne,fl                  28.1           80.63                         4              purple         
+fort myers,fl                 26.58          81.87                         4              purple         
+wilmington,vt                 42.88          72.88                         4              deep pink      
+muskogee,mo                   35.66          95.36                         4              purple         
+battle creek,mi               42.3           85.23                         4              deep pink      
+staunton,va                   38.27          78.85                         4              cyan           
+south bend,in                 41.7           86.32          104215         6              purple         
+port arthur,tx                30.58          94.02                         4              deep pink      
+ottumwa,ia                    41.1           92.45                         4              deep pink      
+tacoma,wa                     47.27          122.58         199638         6              cyan           
+sheridan,wy                   44.77          106.97                        4              cyan           
+williston,nd                  48.18          103.63                        4              deep pink      
+jefferson city,mo             38.6           92.17                         4              purple         
+bergstrom af,tx               30.2           97.68                         4              deep pink      
+wilmington,de                 39.67          75.6                          4              cyan           
+medicine ldg,ks               37.3           98.58                         4              cyan           
+big sky,tx                    32.39          101.48                        4              deep pink      
+safford awrs,az               32.82          109.68                        4              gold           
+topeka/forbe,ks               38.95          95.67                         4              cyan           
+montgomery,al                 32.3           86.4           202124         7              cyan           
+houlton,me                    46.13          67.78                         4              purple         
+gray afb,tx                   31.07          97.83                         4              deep pink      
+greenwood,ms                  33.5           90.08                         4              purple         
+thief river,mn                48.07          96.18                         4              cyan           
+chanute,ks                    37.67          95.48                         4              cyan           
+altoona,pa                    40.3           78.32                         4              deep pink      
+grangeville,id                45.92          116.13                        4              deep pink      
+boothville,la                 29.55          89.67                         4              gold           
+bradford,pa                   41.8           78.63                         4              deep pink      
+edwards afb,ca                34.9           117.88                        4              deep pink      
+hawthorne,ca                  33.92          118.33                        4              deep pink      
+manteo arpt,nc                35.92          75.68                         4              purple         
+athens,ga                     33.95          83.32          114983         6              deep pink      
+hot springs,nc                35.9           82.82                         4              purple         
+randolph afb,tx               29.53          98.28                         4              deep pink      
+fullerton,ca                  33.87          117.97         132620         6              deep pink      
+ft campbell,ky                36.67          87.5                          4              deep pink      
+luke,az                       33.53          112.38                        4              gold           
+wright-pat afb,oh             39.83          84.05                         4              cyan           
+bakersfield,ca                35.43          119.05         324463         7              deep pink      
+bemidji muni,mn               47.5           94.93                         4              cyan           
+burlington,wa                 48.5           122.33                        4              cyan           
+cp girardeau,mo               37.23          89.58                         4              purple         
+huntsville,al                 34.65          86.77          179652         6              cyan           
+farmington,nm                 36.75          108.23                        4              cyan           
+fort rucker,al                31.28          85.72                         4              cyan           
+battle mtn,nv                 40.62          116.87                        4              cyan           
+selfridge,mi                  42.62          82.83                         4              deep pink      
+philadelphia,pa               39.88          75.25          1547297        10             deep pink      
+cape canaveral,fl             28.47          80.55                         4              purple         
+key west,fl                   24.55          81.75                         4              purple         
+ely/yelland,nv                39.28          114.85                        4              cyan           
+newport,vt                    45.55          72.33                         4              deep pink      
+dobbins afb,ga                34.53          84.87                         4              deep pink      
+dubuque,ia                    42.4           90.7                          4              deep pink      
+williamsport,pa               41.25          76.92                         4              deep pink      
+eugene is.,la                 28.47          91.78                         4              gold           
+green river,ut                39.0           110.15                        4              purple         
+alexandria,la                 31.38          92.3                          4              gold           
+ft knox,ky                    37.9           85.97                         4              deep pink      
+kansas city,mo                39.12          94.6           482299         8              purple         
+ephrata,wa                    47.32          119.52                        4              cyan           
+brunswick,me                  43.88          69.93                         4              purple         
+dyess afb,tx                  32.43          99.85                         4              deep pink      
+saint george,ut               37.08          113.6                         4              purple         
+tofte,mn                      47.58          90.83                         4              cyan           
+billings,mt                   45.8           108.53         105845         6              gold           
+nasa shuttle,fl               28.62          80.68                         4              purple         
+tooele,ut                     40.17          112.2                         4              purple         
+mobile aeros,al               30.63          88.07                         4              cyan           
+seattle/boeing,wa             47.53          122.3                         4              cyan           
+lewiston,id                   46.38          117.02                        4              deep pink      
+ontario intl,ca               34.05          117.62                        4              deep pink      
+manhatten,ks                  39.15          96.67                         4              cyan           
+meacham,or                    45.5           118.4                         4              purple         
+mount shasta,ca               41.32          122.32                        4              deep pink      
+ukiah,ca                      39.13          123.2                         4              deep pink      
+columbus osu,oh               40.08          83.07                         4              cyan           
+big bear apt,ca               34.27          116.68                        4              deep pink      
+broadus,mt                    45.67          105.67                        4              gold           
+mullen,ne                     42.05          101.05                        4              gold           
+centralia,il                  38.51          89.09                         4              cyan           
+davis-m afb,az                32.17          110.88                        4              gold           
+santa ana,ca                  33.67          117.88         340338         7              deep pink      
+ambrose,ny                    40.75          74.37                         4              purple         
+saint paul,mn                 44.93          93.05          281253         7              cyan           
+visalia,ca                    36.32          119.4          122111         6              deep pink      
+johnson cnty,ks               38.82          94.88                         4              cyan           
+egmont key,fl                 27.6           82.77                         4              purple         
+concord,nh                    43.2           71.5                          4              gold           
+dallas nas,tx                 32.73          96.97                         4              deep pink      
+westfield,ma                  42.17          72.72                         4              cyan           
+moffet nas,ca                 37.42          122.05                        4              deep pink      
+westover,ma                   42.2           72.53                         4              cyan           
+block island,ri               41.17          71.58                         4              purple         
+roswell,nm                    33.3           104.53                        4              cyan           
+westhampton,ny                40.85          72.63                         4              purple         
+north omaha,ne                41.37          96.02                         4              gold           
+state colleg,pa               40.85          77.83                         4              deep pink      
+wenatchee,wa                  47.4           120.2                         4              cyan           
+site r,pa                     39.73          77.43                         4              deep pink      
+big piney,wy                  42.57          110.1                         4              cyan           
+carlsbad,nm                   32.33          104.27                        4              cyan           
+winslow,az                    35.02          110.73                        4              gold           
+owyhee,nv                     42.58          116.17                        4              cyan           
+kalamazoo,mi                  42.23          85.55                         4              deep pink      
+spartanburg,sc                34.92          81.96                         4              cyan           
+lufkin,tx                     31.23          94.75                         4              deep pink      
+truckee-tahoe,ca              39.32          120.13                        4              deep pink      
+berlin,nh                     44.58          71.18                         4              gold           
+jamestown,nd                  46.92          98.68                         4              deep pink      
+smyrna,tn                     36.0           86.5                          4              gold           
+ind sprng rn,nv               36.57          115.67                        4              cyan           
+toledo,wa                     46.48          122.8                         4              cyan           
+englewood,co                  39.57          104.83                        4              deep pink      
+plainview,tx                  34.17          101.71                        4              deep pink      
+show low,az                   34.27          110.0                         4              gold           
+wendover,ut                   41.22          114.05                        4              purple         
+bishop,ca                     37.6           118.6                         4              deep pink      
+champaign/urbana,il           40.03          88.28                         4              cyan           
+tampa intl,fl                 27.97          82.53                         4              purple         
+sun valley,id                 43.5           114.3                         4              deep pink      
+rapid city,sd                 44.05          103.07                        4              purple         
+pine bluff,ar                 34.17          91.93                         4              cyan           
+raleigh-durh,nc               35.87          78.78                         4              purple         
+salinas,ca                    36.67          121.6          144278         6              deep pink      
+kerrville,tx                  29.98          99.08                         4              deep pink      
+harrisburg,pa                 40.37          77.42                         4              deep pink      
+new york,ny                   40.77          73.98          8391881        17             purple         
+manistee,mi                   44.27          86.25                         4              deep pink      
+ft stewart,ga                 31.88          81.57                         4              deep pink      
+detroit laks,mn               46.82          95.88                         4              cyan           
+high is,la                    28.22          93.75                         4              gold           
+fort polk,la                  31.05          93.2                          4              gold           
+astor nas,fl                  29.12          81.57                         4              purple         
+chicago/meigs,il              41.87          87.62                         4              cyan           
+lidgerwood,nd                 46.1           97.15                         4              deep pink      
+burlington,ia                 40.78          91.12                         4              deep pink      
+quincy,il                     39.93          91.2                          4              cyan           
+wilkes-barre,pa               41.33          75.73                         4              deep pink      
+cecil,fl                      30.22          81.88                         4              purple         
+florence,sc                   34.18          79.72                         4              cyan           
+marshall arpt,mn              44.45          95.82                         4              cyan           
+bozeman,mt                    45.78          111.15                        4              gold           
+bridgeport,ct                 41.17          73.13          137298         6              deep pink      
+richards-geb,mo               38.85          94.55                         4              purple         
+jonesboro,ar                  35.83          90.65                         4              cyan           
+miami intl,fl                 25.82          80.28                         4              purple         
+mayport nas,fl                30.4           81.42                         4              purple         
+greeley-wld,co                40.43          104.63                        4              deep pink      
+appleton,wi                   44.25          88.52                         4              gold           
+s marsh isl,la                28.3           91.98                         4              gold           
+houma,la                      29.57          90.65                         4              gold           
+yellowstone,wy                44.55          110.42                        4              cyan           
+mccook,ne                     40.22          100.58                        4              gold           
+reno,nv                       39.5           119.78         219636         7              cyan           
+ontario,or                    44.02          117.02                        4              purple         
+coeur d'alene,id              47.77          116.82                        4              deep pink      
+glendive,mt                   47.13          104.8                         4              gold           
+hurlburt fld,fl               30.43          86.68                         4              purple         
+jackson,wy                    43.6           110.73                        4              cyan           
+wolfeboro,nh                  44.0           71.38                         4              gold           
+harbor beach,mi               43.83          82.53                         4              deep pink      
+marysville,ca                 39.1           121.57                        4              deep pink      
+coopersville,mi               43.07          85.95                         4              deep pink      
+atlanta/dklb,ga               33.88          84.3                          4              deep pink      
+hagerstown,md                 39.7           77.72                         4              purple         
+beverly,ma                    42.58          70.92                         4              cyan           
+poplar bluff,mo               36.77          90.47                         4              purple         
+mather afb,ca                 38.57          121.3                         4              deep pink      
+kingsville,tx                 27.5           97.82                         4              deep pink      
+paducah,ky                    37.07          88.77                         4              deep pink      
+o'neill,ne                    42.47          98.68                         4              gold           
+estherville,ia                43.4           94.75                         4              deep pink      
+bradford,il                   41.16          89.6                          4              cyan           
+astoria,or                    46.15          123.88                        4              purple         
+watertown,sd                  44.92          97.15                         4              purple         
+bloomington,in                39.13          86.62                         4              purple         
+bloomington,il                40.48          88.93                         4              cyan           
+fraser,co                     39.57          105.5                         4              deep pink      
+fort meade,md                 39.08          76.77                         4              purple         
+baton rouge,la                30.53          91.15          225388         7              gold           
+mattoon,il                    39.48          88.28                         4              cyan           
+pellston,mi                   45.57          84.8                          4              deep pink      
+campo,ca                      32.62          116.47                        4              deep pink      
+new iberia,la                 30.03          91.88                         4              gold           
+grand island,ne               40.97          98.32                         4              gold           
+asheville,nc                  35.43          82.55                         4              purple         
+pt piedras,ca                 36.12          121.47                        4              deep pink      
+fort ord,ca                   36.68          121.77                        4              deep pink      
+bicycle lk,ca                 35.28          116.62                        4              deep pink      
+traverse cty,mi               44.73          85.58                         4              deep pink      
+chicago,il                    41.9           87.65          2851268        12             cyan           
+twenty9 palm,ca               34.28          116.15                        4              deep pink      
+imperial,ca                   32.83          115.57                        4              deep pink      
+price/carbon,ut               39.62          110.75                        4              purple         
+idaho falls,id                43.52          112.07                        4              deep pink      
+sexton,or                     42.62          123.37                        4              purple         
+new york/jfk,ny               40.65          73.78                         4              purple         
+monterey,ca                   36.58          121.85                        4              deep pink      
+spickard,mo                   40.25          93.72                         4              purple         
+delta,ut                      39.33          112.58                        4              purple         
+watertown,ny                  44.0           76.02                         4              purple         
+everet/paine,wa               47.92          122.28                        4              cyan           
+temple,tx                     31.15          97.42                         4              deep pink      
+monticello,ny                 41.7           74.8                          4              purple         
+winnemucca,nv                 40.9           117.8                         4              cyan           
+st johnsbury,vt               44.42          72.02                         4              deep pink      
+la crosse,wi                  43.87          91.25                         4              gold           
+millville,nj                  39.37          75.07                         4              gold           
+daytona bch,fl                29.18          81.05                         4              purple         
+winston-salem,nc              36.13          80.23          229828         7              purple         
+duke fld,fl                   30.65          86.52                         4              purple         
+myrtle beach,sc               33.68          78.93                         4              cyan           
+lakeland,fl                   28.03          81.95                         4              purple         
+st joseph,mo                  40.28          95.53                         4              purple         
+olympia,wa                    46.97          122.9                         4              cyan           
+fort devens,ma                42.57          71.6                          4              cyan           
+canton,oh                     40.92          81.43                         4              cyan           
+duluth,mn                     46.83          92.18                         4              cyan           
+waterloo mun,ia               42.55          92.4                          4              deep pink      
+rocky mt,nc                   35.85          77.88                         4              purple         
+jacksonville,fl               30.23          81.68          813518         9              purple         
+lewiston,mt                   47.05          109.45                        4              gold           
+la verne,ca                   34.1           117.78                        4              deep pink      
+macdill afb,fl                27.85          82.52                         4              purple         
+richmond,va                   37.5           77.33          204451         7              cyan           
+mount vernon,il               38.32          88.86                         4              cyan           
+williams afb,az               33.3           111.67                        4              gold           
+mount wilson,ca               34.23          118.07                        4              deep pink      
+drummond,mt                   46.67          113.15                        4              gold           
+fargo,nd                      46.9           96.8                          4              deep pink      
+dallas/redbr,tx               32.68          96.87                         4              deep pink      
+sioux falls,sd                43.58          96.73          158008         6              purple         
+peoria,il                     40.67          89.68          115520         6              cyan           
+wheeling,wv                   40.18          80.65                         4              gold           
+concordia,ks                  39.55          97.65                         4              cyan           
+windsor loc,ct                41.93          72.68                         4              deep pink      
+lafayette,la                  30.2           92.0           114915         6              gold           
+lone rock,wi                  43.2           90.18                         4              gold           
+hoquiam,wa                    46.97          123.97                        4              cyan           
+ft lauderdale,fl              26.07          80.15                         4              purple         
+laredo intl,tx                27.53          99.47                         4              deep pink      
+mercury,nv                    36.62          116.02                        4              cyan           
+jackson,ky                    37.6           83.32                         4              deep pink      
+fort drum,ny                  44.05          75.73                         4              purple         
+muir,pa                       40.43          76.57                         4              deep pink      
+winter park,co                40.0           105.87                        4              deep pink      
+hot springs,ar                34.48          93.1                          4              cyan           
+langley afb,va                37.08          76.37                         4              cyan           
+north is,ca                   32.7           117.2                         4              deep pink      
+ainsworth,ne                  42.58          99.98                         4              gold           
+chamberlain,sd                43.75          99.32                         4              purple         
+devil's lake,nd               48.1           98.87                         4              deep pink      
+topeka,ks                     39.07          95.62          124331         6              cyan           
+broken bow,ne                 41.43          99.65                         4              gold           
+norfolk,ne                    41.98          97.43                         4              gold           
+holloman afb,nm               32.85          106.1                         4              cyan           
+grand forks,nd                47.97          97.4                          4              deep pink      
+fresno,ca                     36.77          119.72         479918         8              deep pink      
+new bern,nc                   35.08          77.05                         4              purple         
+san diego,ca                  32.82          116.97         1306300        10             deep pink      
+pierre,sd                     44.38          100.28                        4              purple         
+roanoke muni,va               37.32          79.97                         4              cyan           
+seul choix,mi                 45.92          85.92                         4              deep pink      
+las vegas,nm                  35.65          105.15                        4              cyan           
+hill afb,ut                   41.12          111.97                        4              purple         
+macon/lewis,ga                32.7           83.65                         4              deep pink      
+islip,ny                      40.78          73.1                          4              purple         
+wildhorse,nv                  41.33          116.25                        4              cyan           
+milwaukee,wi                  43.12          88.05          605013         8              gold           
+findlay,oh                    41.02          83.67                         4              cyan           
+soda springs,id               42.65          111.58                        4              deep pink      
+cozad,ne                      40.87          100.0                         4              gold           
+imperial,ne                   40.53          101.63                        4              gold           
+dothan,al                     31.32          85.45                         4              cyan           
+dubois,pa                     41.18          78.9                          4              deep pink      
+marquette,mi                  46.88          87.95                         4              deep pink      
+offutt afb,ne                 41.12          95.92                         4              gold           
+alpena,mi                     45.07          83.57                         4              deep pink      
+pikeville,ky                  37.48          82.52                         4              deep pink      
+columbus,ga                   32.52          84.93          190414         6              deep pink      
+springfield,il                39.85          89.67          118033         6              cyan           
+stockton,ca                   37.9           121.25         287578         7              deep pink      
+seattle,wa                    47.45          122.3          616627         8              cyan           
+palo alto,ca                  37.47          122.12                        4              deep pink      
+buffalo,ny                    42.93          78.73          270240         7              purple         
+washington/natl,dc            38.85          77.04                         4              deep pink      
+tulsa,ok                      36.2           95.9           389625         7              gold           
+martinsburg,wv                39.4           77.98                         4              gold           
+tuscaloosa,al                 33.23          87.62                         4              cyan           
+whiting fld,fl                30.72          87.02                         4              purple         
+meridian nas,ms               32.55          88.57                         4              purple         
+claiborne r,la                31.22          92.95                         4              gold           
+s weymouth,ma                 42.15          70.93                         4              cyan           
+ft smith,ar                   35.33          94.37                         4              cyan           
+redig,sd                      45.16          103.32                        4              purple         
+riverton,wy                   43.05          108.45                        4              cyan           
+lewisburg,wv                  37.87          80.4                          4              gold           
+spencer,ia                    43.17          95.15                         4              deep pink      
+fort wayne,in                 41.0           85.2           255890         7              purple         
+white plains,ny               41.07          73.72                         4              purple         
+marseilles,il                 41.37          88.68                         4              cyan           
+dallas/addis,tx               32.97          96.83                         4              deep pink      
+albany,ny                     42.75          73.8                          4              purple         
+charlottesvi,va               38.13          78.45                         4              cyan           
+fort benning,ga               32.33          85.0                          4              deep pink      
+douglas,wy                    42.75          105.38                        4              cyan           
+norton afb,ca                 34.1           117.23                        4              deep pink      
+clarksville,tn                36.62          87.42          124565         6              gold           
+point mugu,ca                 34.12          119.12                        4              deep pink      
+new river,nc                  34.7           77.43                         4              purple         
+kearney,ne                    40.73          99.0                          4              gold           
+pueblo,co                     38.28          104.52         104877         6              deep pink      
+yakima,wa                     46.57          120.53                        4              cyan           
+omaha/eppley,ne               41.3           95.9                          4              gold           
+colo sprgs,co                 38.82          104.72                        4              deep pink      
+fort bragg,nc                 35.13          78.93                         4              purple         
+atlantic cty,nj               39.45          74.57                         4              gold           
+valdosta,ga                   30.78          83.28                         4              deep pink      
+cleveland,oh                  41.42          81.87          431369         7              cyan           
+cotulla,tx                    28.45          99.22                         4              deep pink      
+mcallen,tx                    26.18          98.23          132225         6              deep pink      
+redmond,or                    44.27          121.15                        4              purple         
+elizabeth,nc                  36.27          76.18                         4              purple         
+bakalar af,in                 39.38          86.5                          4              purple         
+rock springs,wy               41.6           109.07                        4              cyan           
+sioux city,ia                 42.4           96.38                         4              deep pink      
+galveston,tx                  29.27          94.87                         4              deep pink      
+kingman,az                    35.27          113.95                        4              gold           
+ellsworth af,sd               44.15          103.1                         4              purple         
+quillayute,wa                 47.95          124.55                        4              cyan           
+albany,ga                     31.53          84.18                         4              deep pink      
+mineral wlls,tx               32.78          98.07                         4              deep pink      
+lancaster,pa                  40.13          76.3                          4              deep pink      
+hillsboro,or                  45.53          122.95                        4              purple         
+warroad,mn                    48.93          95.35                         4              cyan           
+stephenville,tx               32.22          98.18                         4              deep pink      
+victoria,tx                   28.85          96.92                         4              deep pink      
+mitchell,sd                   43.77          98.03                         4              purple         
+montrose,co                   38.5           107.88                        4              deep pink      
+plattsburgh,ny                44.65          73.47                         4              purple         
+stillwater,ok                 36.16          97.09                         4              gold           
+cheyenne,wy                   41.15          104.82                        4              cyan           
+andrews afb,md                38.82          76.87                         4              purple         
+amarillo,tx                   35.23          101.7          189392         6              deep pink      
+ft leonard,mo                 37.75          92.13                         4              purple         
+spokane,wa                    47.67          117.33         203268         7              cyan           
+ft col/lovel,co               40.45          105.02                        4              deep pink      
+beale afb,ca                  39.13          121.45                        4              deep pink      
+hastings,ne                   40.6           98.43                         4              gold           
+alexandria,mn                 45.87          95.38                         4              cyan           
+houston/hobby,tx              29.65          95.28                         4              deep pink      
+jordan,mt                     47.33          106.93                        4              gold           
+lake tahoe,ca                 38.9           120.0                         4              deep pink      
+childress,tx                  34.43          100.28                        4              deep pink      
+minneapolis,mn                44.88          93.22          385378         7              cyan           
+portland,me                   43.65          70.32                         4              purple         
+stlouis/spirit,mo             38.65          90.63                         4              purple         
+colville,wa                   48.88          118.47                        4              cyan           
+charleston,wv                 38.37          81.6                          4              gold           
+hutchinson,ks                 38.07          97.87                         4              cyan           
+keesler afb,ms                30.42          88.92                         4              purple         
+southern pin,nc               35.24          79.39                         4              purple         
+provo,ut                      40.22          111.72         119775         6              purple         
+titusville,fl                 28.52          80.8                          4              purple         
+rumford,me                    44.88          70.88                         4              purple         
+white sulph,wv                37.46          80.2                          4              gold           
+imperial bch,ca               32.57          117.12                        4              deep pink      
+pasco,wa                      46.27          119.12                        4              cyan           
+leadville,co                  39.25          106.3                         4              deep pink      
+van nuys,ca                   34.22          118.48                        4              deep pink      
+newburgh,ny                   41.5           74.1                          4              purple         
+toledo,oh                     41.6           83.8           316179         7              cyan           
+march afb,ca                  33.88          117.27                        4              deep pink      
+hill city,ks                  39.38          99.83                         4              cyan           
+columbia,mo                   38.82          92.22          102324         6              purple         
+grissom afb,in                40.65          86.15                         4              purple         
+bismarck,nd                   46.77          100.75                        4              deep pink      
+ironwood,mi                   46.53          90.13                         4              deep pink      
+worcester,ma                  42.27          71.87          182882         6              cyan           
+ord/sharp,ne                  41.62          98.95                         4              gold           
+savannah mun,ga               32.13          81.2                          4              deep pink      
+susanville,ca                 40.63          120.95                        4              deep pink      
+scottsbluff,ne                41.87          103.6                         4              gold           
+burbank,ca                    34.2           118.37         103121         6              deep pink      
+norfolk rgnl,va               36.9           76.2                          4              cyan           
+page,ok                       34.68          94.62                         4              gold           
+saginaw,mi                    43.53          84.08                         4              deep pink      
+monroe,la                     32.52          92.05                         4              gold           
+robins afb,ga                 32.63          83.6                          4              deep pink      
+eugene,or                     44.12          123.22         153272         6              purple         
+rifle,co                      39.53          107.8                         4              deep pink      
+patrick afb,fl                28.23          80.6                          4              purple         
+fort lewis,wa                 47.08          122.58                        4              cyan           
+w yellowston,mt               44.68          111.12                        4              gold           
+pensacola,fl                  30.47          87.2                          4              purple         
+el toro,ca                    33.67          117.73                        4              deep pink      
+griffiss afb,ny               43.23          75.4                          4              purple         
+marion,il                     37.75          89.0                          4              cyan           
+daggett,ca                    34.87          116.78                        4              deep pink      
+corvallis,or                  44.5           123.28                        4              purple         
+liberal,ks                    37.05          100.97                        4              cyan           
+dodge city,ks                 37.77          99.97                         4              cyan           
+lansing,mi                    42.77          84.6           113802         6              deep pink      
+mcalester,ok                  34.88          95.78                         4              gold           
+santa rosa,ca                 38.52          122.82         157468         6              deep pink      
+santa fe,nm                   35.62          106.08                        4              cyan           
+beatrice,ne                   40.32          96.75                         4              gold           
+panama city,fl                30.2           85.68                         4              purple         
+bedford,ma                    42.47          71.28                         4              cyan           
+concord,ca                    37.98          122.05         126752         6              deep pink      
+memphis intl,tn               35.05          90.0                          4              gold           
+sidney,mt                     47.72          104.18                        4              gold           
+alliance,ne                   42.05          102.8                         4              gold           
+clayton arpt,nm               36.45          103.15                        4              cyan           
+keene,nh                      42.9           72.27                         4              gold           
+beckley,wv                    37.78          81.12                         4              gold           
+fort carson,co                38.68          104.77                        4              deep pink      
+helena,mt                     46.6           112.0                         4              gold           
+phoenix,az                    33.43          112.02         1593659        10             gold           
+alton,il                      38.88          90.05                         4              cyan           
+greenville,tx                 33.07          96.07                         4              deep pink      
+santa monica,ca               34.02          118.45                        4              deep pink      
+vernal,ut                     40.45          109.52                        4              purple         
+nantucket,ma                  41.25          70.07                         4              cyan           
+dallas/fw,tx                  32.9           97.03                         4              deep pink      
+anniston,al                   33.58          85.85                         4              cyan           
+whidbey is,wa                 48.35          122.65                        4              cyan           
+newport,or                    44.63          124.05                        4              purple         
+renton,wa                     47.5           122.22                        4              cyan           
+farmingdale,ny                40.73          73.43                         4              purple         
+cannon,nm                     34.38          103.32                        4              cyan           
+hanford,wa                    46.57          119.6                         4              cyan           
+la grande,or                  45.28          118.0                         4              purple         
+saint peters,fl               27.92          82.68                         4              purple         
+long beach,ca                 33.82          118.15         462604         8              deep pink      
+cape hattera,nc               35.27          75.55                         4              purple         
+nellis afb,nv                 36.23          115.03                        4              cyan           
+laughlin afb,tx               29.37          100.78                        4              deep pink      
+indianapolis,in               39.73          86.27          807584         9              purple         
+ogden,ut                      41.18          112.02                        4              purple         
+akron,co                      40.17          103.22                        4              deep pink      
+taos,nm                       36.42          105.57                        4              cyan           
+new orleans,la                30.03          90.03          354850         7              gold           
+fort huachuc,az               31.6           110.35                        4              gold           
+san angelo,tx                 31.37          100.5                         4              deep pink      
+ardmore,ok                    34.3           97.02                         4              gold           
+springfield,mo                37.23          93.38          157630         6              purple         
+binghamton,ny                 42.22          75.98                         4              purple         
+alma,ga                       31.53          82.52                         4              deep pink      
+laconia,nh                    43.57          71.43                         4              gold           
+castle afb,ca                 37.38          120.57                        4              deep pink      
+cortez,co                     37.3           108.63                        4              deep pink      
+cherry point,nc               34.9           76.88                         4              purple         
+mankato,mn                    44.22          93.92                         4              cyan           
+houghton lake,mi              44.37          84.68                         4              deep pink      
+douglas,az                    31.45          109.6                         4              gold           
+la grange,ga                  33.01          85.07                         4              deep pink      
+west plains,mo                36.88          91.9                          4              purple         
+marfa,tx                      30.37          104.02                        4              deep pink      
+yuma,az                       33.1           115.0                         4              gold           
+aurora,il                     41.77          88.32          172950         6              cyan           
+caliente,nv                   37.62          114.52                        4              cyan           
+slidel,la                     30.35          89.82                         4              gold           
+harrison,ar                   36.27          93.15                         4              cyan           
+norwood,ma                    42.18          71.18                         4              cyan           
+volk fld,wi                   43.93          90.27                         4              gold           
+elmira,ny                     42.17          76.9                          4              purple         
+superior val,ca               35.33          117.1                         4              deep pink      
+owensboro,ky                  37.75          87.17                         4              deep pink      
+alameda nas,ca                37.78          122.32                        4              deep pink      
+mobile,al                     30.68          88.25          193205         6              cyan           
+kankakee,il                   41.07          87.85                         4              cyan           
+willoughby,oh                 41.63          81.4                          4              cyan           
+lake charles,la               30.12          93.22                         4              gold           
+cincinnati,oh                 39.1           84.43          333012         7              cyan           
+norman,ok                     35.23          97.47          109062         6              gold           
+dalhart,tx                    36.02          102.55                        4              deep pink      
+willow grove,pa               40.2           75.15                         4              deep pink      
+new london,ct                 41.3           72.08                         4              deep pink      
+tucumcari,nm                  35.18          103.6                         4              cyan           
+reese afb,tx                  33.6           102.05                        4              deep pink      
+malta,id                      42.3           113.37                        4              deep pink      
+seymour-john,nc               35.33          77.97                         4              purple         
+clarksburg,wv                 39.28          80.23                         4              gold           
+hickory,nc                    35.75          81.38                         4              purple         
+wichita flls,tx               33.98          98.5                          4              deep pink      
+wilmington,nc                 34.27          77.92          101350         6              purple         
+muncie,in                     40.23          85.38                         4              purple         
+scott afb,il                  38.55          89.85                         4              cyan           
+fairchild,wa                  47.62          117.65                        4              cyan           
+augusta/bush,ga               33.37          81.97                         4              deep pink      
+blythe,ca                     33.62          114.72                        4              deep pink      
+carbondale,il                 37.78          89.25                         4              cyan           
+san nic isl,ca                33.25          119.45                        4              deep pink      
+schenectady,ny                42.85          73.93                         4              purple         
+w lafayette,in                40.42          86.93                         4              purple         
+glenview nas,il               42.08          87.82                         4              cyan           
+laurel,ms                     31.67          89.17                         4              purple         
+bristol,tn                    36.48          82.4                          4              gold           
+fallon nas,nv                 39.42          118.7                         4              cyan           
+deer valley,az                33.68          112.08                        4              gold           
+tallahassee,fl                30.38          84.37          172574         6              purple         
+waycross,ga                   31.25          82.4                          4              deep pink      
+wallops sta,va                37.85          75.48                         4              cyan           
+diamond sho,nc                35.25          75.5                          4              purple         
+sterling,il                   41.74          89.67                         4              cyan           
+scottsdale,az                 33.62          111.92         237844         7              gold           
+las cruces,nm                 32.3           106.77                        4              cyan           
+los alamitos,ca               33.78          118.05                        4              deep pink      
+decatur,il                    39.83          88.87                         4              cyan           
+fort eustis,va                37.13          76.62                         4              cyan           
+charleston,sc                 32.9           80.03          115638         6              cyan           
+goodland,ks                   39.37          101.7                         4              cyan           
+fairfield,nj                  40.87          74.28                         4              gold           
+mcchord afb,wa                47.15          122.48                        4              cyan           
+macomb,il                     40.52          90.66                         4              cyan           
+burns arpt,or                 43.6           118.95                        4              purple         
+fort dodge,ia                 42.55          94.18                         4              deep pink      
+chippewa,mi                   46.25          84.47                         4              deep pink      
+augusta,me                    44.32          69.8                          4              purple         
+cut bank,mt                   48.6           112.37                        4              gold           
+dare co gr,nc                 36.13          76.5                          4              purple         
+alice,tx                      27.73          98.03                         4              deep pink      
+newark intl,nj                40.7           74.17                         4              gold           
+poughkeepsie,ny               41.63          73.88                         4              purple         
+rhinelander,wi                45.63          89.45                         4              gold           
+omak,wa                       48.42          119.53                        4              cyan           
+chicago/midway,il             41.78          87.75                         4              cyan           
+san antonio,tx                29.33          98.47          1373668        10             deep pink      
+oneonta,ny                    42.87          75.12                         4              purple         
+logan,ut                      41.78          111.85                        4              purple         
+providence,ri                 41.73          71.43          171909         6              purple         
+lakehurst,nj                  40.03          74.35                         4              gold           
+hattiesburg,ms                31.47          89.33                         4              purple         
+rochester,ny                  43.12          77.67          207294         7              purple         
+detroit,mi                    42.23          83.33          910921         9              deep pink      
+livingston,mt                 45.7           110.43                        4              gold           
+san clemente,ca               33.02          118.58                        4              deep pink      
+nth kingston,ri               41.6           71.42                         4              purple         
+columbus,oh                   40.0           82.88          769332         8              cyan           
+northrup str,nm               32.9           106.4                         4              cyan           
+homestead,fl                  25.48          80.38                         4              purple         
+mcclellan,ca                  38.67          121.4                         4              deep pink      
+dyersburg,tn                  36.02          89.4                          4              gold           
+hayward,ca                    37.65          122.12         144291         6              deep pink      
+junction,tx                   30.5           99.77                         4              deep pink      
+lamoni,ia                     40.62          93.93                         4              deep pink      
+montpelier,vt                 44.2           72.57                         4              deep pink      
+lovelock,nv                   40.1           118.92                        4              cyan           
+dugway prvgr,ut               40.2           112.93                        4              purple         
+d.w. hooks,tx                 30.07          95.55                         4              deep pink      
+grand canyon,az               35.95          112.15                        4              gold           
+ft hood aaf,tx                31.15          97.72                         4              deep pink      
+pope afb,nc                   35.17          79.02                         4              purple         
+columbus afb,ms               33.65          88.45                         4              purple         
+eagle range,ut                41.05          113.07                        4              purple         
+kinston,nc                    35.32          77.63                         4              purple         
+nth myrtle b,sc               33.82          78.72                         4              cyan           
+mcguire afb,nj                40.02          74.6                          4              gold           
+mason city,ia                 43.15          93.33                         4              deep pink      
+morristown,nj                 40.8           74.42                         4              gold           
+shreveport,la                 32.47          93.82          199244         6              gold           
+philipsburg,pa                41.47          78.13                         4              deep pink      
+danville,il                   40.2           87.6                          4              cyan           
+avon park g,fl                28.08          81.55                         4              purple         
+dickenson,nd                  46.78          102.8                         4              deep pink      
+elkhart,ks                    37.0           101.88                        4              cyan           
+rochester,mn                  43.92          92.5           103486         6              cyan           
+mullan,id                     47.47          115.8                         4              deep pink      
+durango,co                    37.15          107.75                        4              deep pink      
+socorro,nm                    34.07          106.9                         4              cyan           
+ellington af,tx               29.62          95.17                         4              deep pink      
+greensboro,nc                 36.08          79.95          255124         7              purple         
+baltimore,md                  39.33          76.42          637418         8              purple         
+bellingham,wa                 48.8           122.53                        4              cyan           
+crossville,tn                 35.95          85.08                         4              gold           
+cedar city,ut                 37.7           113.1                         4              purple         
+atlanta,ga                    33.65          84.42          540922         8              deep pink      
+youngstown,oh                 41.27          80.67                         4              cyan           
+falcon fld,az                 33.47          111.73                        4              gold           
+worthington,mn                43.65          95.58                         4              cyan           
+little rock,ar                34.83          92.25          191933         6              cyan           
+neenah,wi                     44.22          88.53                         4              gold           

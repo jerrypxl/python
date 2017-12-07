@@ -1,0 +1,121 @@
+import turtle
+t = turtle.Turtle('turtle')
+s = turtle.Screen()
+s.setworldcoordinates(-20,-20,20,20)
+t.speed(10)
+
+t.width(3)
+
+def drawShape(x,y,a,b,c,d):
+    t.right(a)
+    t.forward(x)
+    t.right(b)
+    t.forward(x)
+    t.right(c)
+    t.forward(x)
+    t.right(d)
+    t.forward(y)
+    
+t.penup()
+t.setposition (-10,10)
+
+t.pendown()
+
+t.fillcolor('blue')
+
+t.begin_fill()
+drawShape(8,0,60,120,120,60)
+t.end_fill()
+
+t.forward(8)
+
+t.begin_fill()
+drawShape(8,0,60,120,120,60)
+t.end_fill()
+
+t.forward(8)
+
+t.begin_fill()
+drawShape(8,0,60,120,120,60)
+t.end_fill()
+
+t.forward(4)
+t.right(90)
+t.forward(6.9282)
+
+t.end_fill()
+
+t.fillcolor('orange')
+t.begin_fill()
+t.penup()
+t.right(90)
+t.forward(24)
+t.left(90)
+t.pendown()
+t.forward(15)
+t.left(90)
+t.forward(8)
+t.left(90)
+t.forward(15)
+t.right(180)
+t.penup()
+t.forward(15)
+t.left(90)
+t.pendown()
+t.forward(16)
+t.left(90)
+t.forward(15)
+t.end_fill()
+
+t.fillcolor('skyblue')
+t.begin_fill()
+t.forward(6.9282)
+t.left(90)
+t.forward(4)
+t.end_fill()
+
+t.begin_fill()
+t.forward(8)
+t.left(120)
+t.forward(8)
+t.left(120)
+t.forward(8)
+
+t.left(120)
+t.forward(16)
+t.left(120)
+t.forward(8)
+t.left(120)
+t.forward(8)
+t.end_fill()
+
+t.penup()
+t.left(120)
+t.forward(8)
+t.forward(2.5)
+
+t.left(90)
+t.forward(6.9282)
+t.forward(10)
+
+t.fillcolor('red')
+t.begin_fill()
+t.pendown()
+t.left(90)
+drawShape(5,5,0,90,90,90)
+t.end_fill()
+
+t.penup()
+t.right(90)
+t.forward(4)
+t.right(90)
+t.forward(3)
+t.pendown()
+t.fillcolor('brown')
+t.begin_fill()
+t.circle(0.35)
+t.end_fill()
+
+t.penup()
+t.setposition(-10,10)
+t.left(90)
